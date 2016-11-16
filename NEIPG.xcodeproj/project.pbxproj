@@ -7,6 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A003AA01DAD531D00D2A7B6 /* amphetamine-d.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A003A941DAD531D00D2A7B6 /* amphetamine-d.png */; };
+		9A003AA11DAD531D00D2A7B6 /* amphetamine-dl.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A003A951DAD531D00D2A7B6 /* amphetamine-dl.png */; };
+		9A003AA31DAD531D00D2A7B6 /* aripiprazolelai1_6e.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A003A971DAD531D00D2A7B6 /* aripiprazolelai1_6e.png */; };
+		9A003AA41DAD531D00D2A7B6 /* aripiprazollai2_6e.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A003A981DAD531D00D2A7B6 /* aripiprazollai2_6e.png */; };
+		9A003AA61DAD531D00D2A7B6 /* fluphenazine-lai.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A003A9A1DAD531D00D2A7B6 /* fluphenazine-lai.png */; };
+		9A003AA71DAD531D00D2A7B6 /* haloperidol-lai.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A003A9B1DAD531D00D2A7B6 /* haloperidol-lai.png */; };
+		9A003AA81DAD531D00D2A7B6 /* methylphenidate-d.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A003A9C1DAD531D00D2A7B6 /* methylphenidate-d.png */; };
+		9A003AA91DAD531D00D2A7B6 /* methylphenidate-dl.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A003A9D1DAD531D00D2A7B6 /* methylphenidate-dl.png */; };
+		9A003AAA1DAD531D00D2A7B6 /* olanzapinelai.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A003A9E1DAD531D00D2A7B6 /* olanzapinelai.png */; };
+		9A003AAB1DAD531D00D2A7B6 /* risperidonelai.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A003A9F1DAD531D00D2A7B6 /* risperidonelai.png */; };
+		9A1106DD1DAD87A6007B4C8D /* aripiprazole_lai.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A1106DC1DAD87A6007B4C8D /* aripiprazole_lai.png */; };
+		9A1106DF1DAD87B3007B4C8D /* clozapine_anc_ben.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A1106DE1DAD87B3007B4C8D /* clozapine_anc_ben.png */; };
+		9A1106E11DAD87BC007B4C8D /* clozapine_anc_general.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A1106E01DAD87BC007B4C8D /* clozapine_anc_general.png */; };
+		9A1106E31DADADCF007B4C8D /* NEIPG.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 9A1106E21DADADCF007B4C8D /* NEIPG.sqlite */; };
+		9A1F3B7A18EE14BA00D825EE /* PGDisclaimerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F3B7918EE14BA00D825EE /* PGDisclaimerViewController.m */; };
+		9A1F3B7C18EE182C00D825EE /* disclaimer.htm in Resources */ = {isa = PBXBuildFile; fileRef = 9A1F3B7B18EE182C00D825EE /* disclaimer.htm */; };
+		9A2C67E318B67FDE00AB76C0 /* KeychainItemWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A2C67E218B67FDE00AB76C0 /* KeychainItemWrapper.m */; };
+		9A4FC62A183C4786001782A7 /* InitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A4FC622183C4786001782A7 /* InitViewController.m */; };
+		9A4FC62D183C4786001782A7 /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A4FC627183C4786001782A7 /* MenuViewController.m */; };
 		9A62910A182C643C007B924C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A629109182C643C007B924C /* Foundation.framework */; };
 		9A62910C182C643C007B924C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A62910B182C643C007B924C /* CoreGraphics.framework */; };
 		9A62910E182C643C007B924C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A62910D182C643C007B924C /* UIKit.framework */; };
@@ -23,6 +42,80 @@
 		9A629131182C643C007B924C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A62910D182C643C007B924C /* UIKit.framework */; };
 		9A629139182C643C007B924C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9A629137182C643C007B924C /* InfoPlist.strings */; };
 		9A62913B182C643C007B924C /* NEIPGTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A62913A182C643C007B924C /* NEIPGTests.m */; };
+		9A7292DD1BD19D5D002AE940 /* amisulpride_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292C71BD19D5D002AE940 /* amisulpride_01.png */; };
+		9A7292DE1BD19D5D002AE940 /* aripiprazole_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292C81BD19D5D002AE940 /* aripiprazole_01.png */; };
+		9A7292DF1BD19D5D002AE940 /* asenapine_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292C91BD19D5D002AE940 /* asenapine_01.png */; };
+		9A7292E01BD19D5D002AE940 /* brexpiprazole_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292CA1BD19D5D002AE940 /* brexpiprazole_01.png */; };
+		9A7292E11BD19D5D002AE940 /* buprenorphine_table.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292CB1BD19D5D002AE940 /* buprenorphine_table.png */; };
+		9A7292E21BD19D5D002AE940 /* cariprazine_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292CC1BD19D5D002AE940 /* cariprazine_01.png */; };
+		9A7292E31BD19D5D002AE940 /* clozapine_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292CD1BD19D5D002AE940 /* clozapine_01.png */; };
+		9A7292E41BD19D5D002AE940 /* from_maoi.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292CE1BD19D5D002AE940 /* from_maoi.png */; };
+		9A7292E51BD19D5D002AE940 /* gabapentin.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292CF1BD19D5D002AE940 /* gabapentin.png */; };
+		9A7292E61BD19D5D002AE940 /* iloperidone_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292D01BD19D5D002AE940 /* iloperidone_01.png */; };
+		9A7292E71BD19D5D002AE940 /* lurasidone_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292D11BD19D5D002AE940 /* lurasidone_01.png */; };
+		9A7292E81BD19D5D002AE940 /* maoi_tables.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292D21BD19D5D002AE940 /* maoi_tables.png */; };
+		9A7292E91BD19D5D002AE940 /* olanzapine_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292D31BD19D5D002AE940 /* olanzapine_01.png */; };
+		9A7292EA1BD19D5D002AE940 /* olanzapine_lai_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292D41BD19D5D002AE940 /* olanzapine_lai_01.png */; };
+		9A7292EB1BD19D5D002AE940 /* palipalm_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292D51BD19D5D002AE940 /* palipalm_01.png */; };
+		9A7292EC1BD19D5D002AE940 /* paliperidoneer_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292D61BD19D5D002AE940 /* paliperidoneer_01.png */; };
+		9A7292ED1BD19D5D002AE940 /* quetiapine_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292D71BD19D5D002AE940 /* quetiapine_01.png */; };
+		9A7292EE1BD19D5D002AE940 /* risp_lai_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292D81BD19D5D002AE940 /* risp_lai_01.png */; };
+		9A7292EF1BD19D5D002AE940 /* risperidone_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292D91BD19D5D002AE940 /* risperidone_01.png */; };
+		9A7292F01BD19D5D002AE940 /* schiz_tr.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292DA1BD19D5D002AE940 /* schiz_tr.png */; };
+		9A7292F11BD19D5D002AE940 /* to_maoi.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292DB1BD19D5D002AE940 /* to_maoi.png */; };
+		9A7292F21BD19D5D002AE940 /* ziprasidone_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7292DC1BD19D5D002AE940 /* ziprasidone_01.png */; };
+		9A7E6E0E1857ED7E00EDC2C1 /* next-cal.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9A7E6E0D1857ED7E00EDC2C1 /* next-cal.gif */; };
+		9A9C7A111845387E0099995C /* AutoCompleteTextFieldViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A9C7A101845387E0099995C /* AutoCompleteTextFieldViewController.m */; };
+		9A9D218618510326007FFBE6 /* NEIPG.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9A9D218418510326007FFBE6 /* NEIPG.xcdatamodeld */; };
+		9A9E10381884633A005DA616 /* PGDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A9E10371884633A005DA616 /* PGDataManager.m */; };
+		9A9E103C18846383005DA616 /* PGCheckList.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A9E103B18846383005DA616 /* PGCheckList.m */; };
+		9A9F222718E4D795001C42AB /* nei_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A9F222618E4D795001C42AB /* nei_logo.png */; };
+		9A9F540218861A2500431057 /* PGDrugListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A9F540118861A2500431057 /* PGDrugListViewController.m */; };
+		9A9F95F218EC709000ECA3E7 /* callout1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A9F95EE18EC709000ECA3E7 /* callout1.png */; };
+		9A9F95F718ECC3D100ECA3E7 /* star1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A9F95F618ECC3D100ECA3E7 /* star1.png */; };
+		9A9FB6D7193637AC006B1538 /* pl_az_bel.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9A9FB6D2193637AC006B1538 /* pl_az_bel.gif */; };
+		9A9FB6D8193637AC006B1538 /* pl_sunpharma_india.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9A9FB6D3193637AC006B1538 /* pl_sunpharma_india.gif */; };
+		9A9FB6D9193637AC006B1538 /* pl_torrent_india.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9A9FB6D4193637AC006B1538 /* pl_torrent_india.gif */; };
+		9A9FB6DA193637AC006B1538 /* pl_wyeth_aus.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9A9FB6D5193637AC006B1538 /* pl_wyeth_aus.gif */; };
+		9A9FB6DB193637AC006B1538 /* pl_wyeth_dubai.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9A9FB6D6193637AC006B1538 /* pl_wyeth_dubai.gif */; };
+		9AA02794184E719B00D0E547 /* PGWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA02793184E719B00D0E547 /* PGWebViewController.m */; };
+		9AA0810718E9E3BF00786670 /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA0810618E9E3BF00786670 /* menu.png */; };
+		9AA0810918EA16EF00786670 /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = 9AA0810818EA16EF00786670 /* styles.css */; };
+		9AA081D918F5BA510071F8E1 /* PGViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA081D818F5BA510071F8E1 /* PGViewController.m */; };
+		9AA0C9AA18627B9900457201 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 9AA0C9A918627B9900457201 /* libsqlite3.0.dylib */; };
+		9AA4D73218EB351500969A11 /* artofpsychopharmacology.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D72718EB351500969A11 /* artofpsychopharmacology.png */; };
+		9AA4D73318EB351500969A11 /* commonlyprescribedfor.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D72818EB351500969A11 /* commonlyprescribedfor.png */; };
+		9AA4D73418EB351500969A11 /* contraindications.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D72918EB351500969A11 /* contraindications.png */; };
+		9AA4D73518EB351500969A11 /* dosinganduse.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D72A18EB351500969A11 /* dosinganduse.png */; };
+		9AA4D73618EB351500969A11 /* interactions.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D72B18EB351500969A11 /* interactions.png */; };
+		9AA4D73718EB351500969A11 /* moa.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D72C18EB351500969A11 /* moa.png */; };
+		9AA4D73818EB351500969A11 /* resources.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D72D18EB351500969A11 /* resources.png */; };
+		9AA4D73918EB351500969A11 /* sideeffects.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D72E18EB351500969A11 /* sideeffects.png */; };
+		9AA4D73A18EB351500969A11 /* specialpopulations.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D72F18EB351500969A11 /* specialpopulations.png */; };
+		9AA4D73B18EB351500969A11 /* therapeuticresponse.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D73018EB351500969A11 /* therapeuticresponse.png */; };
+		9AA4D73C18EB351500969A11 /* warningsprecautions.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D73118EB351500969A11 /* warningsprecautions.png */; };
+		9AA4D76218EB4B2800969A11 /* bullet_red_asterisk.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AA4D76118EB4B2800969A11 /* bullet_red_asterisk.png */; };
+		9AA593221888621600A5A51A /* AutoCompleteIndicationViewController.h in Resources */ = {isa = PBXBuildFile; fileRef = 9AA593211888621600A5A51A /* AutoCompleteIndicationViewController.h */; };
+		9AA593241888625200A5A51A /* AutoCompleteIndicationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA593231888625200A5A51A /* AutoCompleteIndicationViewController.m */; };
+		9AA91016183EB2530097E25E /* ECPercentDrivenInteractiveTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA9100A183EB2530097E25E /* ECPercentDrivenInteractiveTransition.m */; };
+		9AA91017183EB2530097E25E /* ECSlidingAnimationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA9100C183EB2530097E25E /* ECSlidingAnimationController.m */; };
+		9AA91018183EB2530097E25E /* ECSlidingInteractiveTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA9100F183EB2530097E25E /* ECSlidingInteractiveTransition.m */; };
+		9AA91019183EB2530097E25E /* ECSlidingSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA91011183EB2530097E25E /* ECSlidingSegue.m */; };
+		9AA9101A183EB2530097E25E /* ECSlidingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA91013183EB2530097E25E /* ECSlidingViewController.m */; };
+		9AA9101B183EB2530097E25E /* UIViewController+ECSlidingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA91015183EB2530097E25E /* UIViewController+ECSlidingViewController.m */; };
+		9AAE0D6E183FD55A007D6495 /* MEDynamicTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AAE0D67183FD55A007D6495 /* MEDynamicTransition.m */; };
+		9AAE0D6F183FD55A007D6495 /* MEFoldAnimationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AAE0D69183FD55A007D6495 /* MEFoldAnimationController.m */; };
+		9AAE0D70183FD55A007D6495 /* METransitions.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AAE0D6B183FD55A007D6495 /* METransitions.m */; };
+		9AAE0D71183FD55A007D6495 /* MEZoomAnimationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AAE0D6D183FD55A007D6495 /* MEZoomAnimationController.m */; };
+		9AB149BA183A9583008AAD8D /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB149B9183A9583008AAD8D /* MBProgressHUD.m */; };
+		9AB149C0183ADC44008AAD8D /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB149BD183ADC44008AAD8D /* NSData+Base64.m */; };
+		9AB149C1183ADC44008AAD8D /* StringEncryption.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB149BF183ADC44008AAD8D /* StringEncryption.m */; };
+		9ABE58FC18B67A47007ECB2C /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9ABE58FB18B67A47007ECB2C /* Security.framework */; settings = {ATTRIBUTES = (Required, ); }; };
+		9AC4B87418A998680017F86E /* close.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC4B87318A998680017F86E /* close.png */; };
+		9ADD2B3E1912C63400051B24 /* bullet1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ADD2B3C1912C63400051B24 /* bullet1.png */; };
+		9ADD2B421912CB6E00051B24 /* pk.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ADD2B401912CB6E00051B24 /* pk.png */; };
+		9ADD2B431912CB6E00051B24 /* comorbid.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ADD2B411912CB6E00051B24 /* comorbid.png */; };
+		9AF638231832C4CC00396694 /* PGLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AF638221832C4CC00396694 /* PGLoginViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +129,29 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9A003A941DAD531D00D2A7B6 /* amphetamine-d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "amphetamine-d.png"; sourceTree = "<group>"; };
+		9A003A951DAD531D00D2A7B6 /* amphetamine-dl.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "amphetamine-dl.png"; sourceTree = "<group>"; };
+		9A003A971DAD531D00D2A7B6 /* aripiprazolelai1_6e.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aripiprazolelai1_6e.png; sourceTree = "<group>"; };
+		9A003A981DAD531D00D2A7B6 /* aripiprazollai2_6e.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aripiprazollai2_6e.png; sourceTree = "<group>"; };
+		9A003A9A1DAD531D00D2A7B6 /* fluphenazine-lai.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fluphenazine-lai.png"; sourceTree = "<group>"; };
+		9A003A9B1DAD531D00D2A7B6 /* haloperidol-lai.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "haloperidol-lai.png"; sourceTree = "<group>"; };
+		9A003A9C1DAD531D00D2A7B6 /* methylphenidate-d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "methylphenidate-d.png"; sourceTree = "<group>"; };
+		9A003A9D1DAD531D00D2A7B6 /* methylphenidate-dl.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "methylphenidate-dl.png"; sourceTree = "<group>"; };
+		9A003A9E1DAD531D00D2A7B6 /* olanzapinelai.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = olanzapinelai.png; sourceTree = "<group>"; };
+		9A003A9F1DAD531D00D2A7B6 /* risperidonelai.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = risperidonelai.png; sourceTree = "<group>"; };
+		9A1106DC1DAD87A6007B4C8D /* aripiprazole_lai.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aripiprazole_lai.png; sourceTree = "<group>"; };
+		9A1106DE1DAD87B3007B4C8D /* clozapine_anc_ben.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clozapine_anc_ben.png; sourceTree = "<group>"; };
+		9A1106E01DAD87BC007B4C8D /* clozapine_anc_general.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clozapine_anc_general.png; sourceTree = "<group>"; };
+		9A1106E21DADADCF007B4C8D /* NEIPG.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = NEIPG.sqlite; sourceTree = "<group>"; };
+		9A1F3B7818EE14BA00D825EE /* PGDisclaimerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PGDisclaimerViewController.h; sourceTree = "<group>"; };
+		9A1F3B7918EE14BA00D825EE /* PGDisclaimerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PGDisclaimerViewController.m; sourceTree = "<group>"; };
+		9A1F3B7B18EE182C00D825EE /* disclaimer.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = disclaimer.htm; sourceTree = "<group>"; };
+		9A2C67E118B67FDE00AB76C0 /* KeychainItemWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeychainItemWrapper.h; sourceTree = "<group>"; };
+		9A2C67E218B67FDE00AB76C0 /* KeychainItemWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeychainItemWrapper.m; sourceTree = "<group>"; };
+		9A4FC621183C4786001782A7 /* InitViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InitViewController.h; sourceTree = "<group>"; };
+		9A4FC622183C4786001782A7 /* InitViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InitViewController.m; sourceTree = "<group>"; };
+		9A4FC626183C4786001782A7 /* MenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuViewController.h; sourceTree = "<group>"; };
+		9A4FC627183C4786001782A7 /* MenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuViewController.m; sourceTree = "<group>"; };
 		9A629106182C643C007B924C /* NEIPG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NEIPG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A629109182C643C007B924C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9A62910B182C643C007B924C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -58,6 +174,101 @@
 		9A629136182C643C007B924C /* NEIPGTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NEIPGTests-Info.plist"; sourceTree = "<group>"; };
 		9A629138182C643C007B924C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9A62913A182C643C007B924C /* NEIPGTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NEIPGTests.m; sourceTree = "<group>"; };
+		9A7292C71BD19D5D002AE940 /* amisulpride_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = amisulpride_01.png; sourceTree = "<group>"; };
+		9A7292C81BD19D5D002AE940 /* aripiprazole_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aripiprazole_01.png; sourceTree = "<group>"; };
+		9A7292C91BD19D5D002AE940 /* asenapine_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = asenapine_01.png; sourceTree = "<group>"; };
+		9A7292CA1BD19D5D002AE940 /* brexpiprazole_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brexpiprazole_01.png; sourceTree = "<group>"; };
+		9A7292CB1BD19D5D002AE940 /* buprenorphine_table.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buprenorphine_table.png; sourceTree = "<group>"; };
+		9A7292CC1BD19D5D002AE940 /* cariprazine_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cariprazine_01.png; sourceTree = "<group>"; };
+		9A7292CD1BD19D5D002AE940 /* clozapine_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clozapine_01.png; sourceTree = "<group>"; };
+		9A7292CE1BD19D5D002AE940 /* from_maoi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = from_maoi.png; sourceTree = "<group>"; };
+		9A7292CF1BD19D5D002AE940 /* gabapentin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gabapentin.png; sourceTree = "<group>"; };
+		9A7292D01BD19D5D002AE940 /* iloperidone_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iloperidone_01.png; sourceTree = "<group>"; };
+		9A7292D11BD19D5D002AE940 /* lurasidone_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lurasidone_01.png; sourceTree = "<group>"; };
+		9A7292D21BD19D5D002AE940 /* maoi_tables.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = maoi_tables.png; sourceTree = "<group>"; };
+		9A7292D31BD19D5D002AE940 /* olanzapine_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = olanzapine_01.png; sourceTree = "<group>"; };
+		9A7292D41BD19D5D002AE940 /* olanzapine_lai_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = olanzapine_lai_01.png; sourceTree = "<group>"; };
+		9A7292D51BD19D5D002AE940 /* palipalm_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = palipalm_01.png; sourceTree = "<group>"; };
+		9A7292D61BD19D5D002AE940 /* paliperidoneer_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = paliperidoneer_01.png; sourceTree = "<group>"; };
+		9A7292D71BD19D5D002AE940 /* quetiapine_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = quetiapine_01.png; sourceTree = "<group>"; };
+		9A7292D81BD19D5D002AE940 /* risp_lai_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = risp_lai_01.png; sourceTree = "<group>"; };
+		9A7292D91BD19D5D002AE940 /* risperidone_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = risperidone_01.png; sourceTree = "<group>"; };
+		9A7292DA1BD19D5D002AE940 /* schiz_tr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = schiz_tr.png; sourceTree = "<group>"; };
+		9A7292DB1BD19D5D002AE940 /* to_maoi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = to_maoi.png; sourceTree = "<group>"; };
+		9A7292DC1BD19D5D002AE940 /* ziprasidone_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ziprasidone_01.png; sourceTree = "<group>"; };
+		9A7E6E0D1857ED7E00EDC2C1 /* next-cal.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "next-cal.gif"; sourceTree = "<group>"; };
+		9A9C7A0F1845387E0099995C /* AutoCompleteTextFieldViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AutoCompleteTextFieldViewController.h; sourceTree = "<group>"; };
+		9A9C7A101845387E0099995C /* AutoCompleteTextFieldViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AutoCompleteTextFieldViewController.m; sourceTree = "<group>"; };
+		9A9D218518510326007FFBE6 /* NEIPG.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = NEIPG.xcdatamodel; sourceTree = "<group>"; };
+		9A9E10361884633A005DA616 /* PGDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PGDataManager.h; sourceTree = "<group>"; };
+		9A9E10371884633A005DA616 /* PGDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PGDataManager.m; sourceTree = "<group>"; };
+		9A9E103A18846383005DA616 /* PGCheckList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PGCheckList.h; sourceTree = "<group>"; };
+		9A9E103B18846383005DA616 /* PGCheckList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PGCheckList.m; sourceTree = "<group>"; };
+		9A9F222618E4D795001C42AB /* nei_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nei_logo.png; sourceTree = "<group>"; };
+		9A9F540018861A2500431057 /* PGDrugListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PGDrugListViewController.h; sourceTree = "<group>"; };
+		9A9F540118861A2500431057 /* PGDrugListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PGDrugListViewController.m; sourceTree = "<group>"; };
+		9A9F95EE18EC709000ECA3E7 /* callout1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = callout1.png; sourceTree = "<group>"; };
+		9A9F95F618ECC3D100ECA3E7 /* star1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star1.png; sourceTree = "<group>"; };
+		9A9FB6D2193637AC006B1538 /* pl_az_bel.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pl_az_bel.gif; sourceTree = "<group>"; };
+		9A9FB6D3193637AC006B1538 /* pl_sunpharma_india.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pl_sunpharma_india.gif; sourceTree = "<group>"; };
+		9A9FB6D4193637AC006B1538 /* pl_torrent_india.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pl_torrent_india.gif; sourceTree = "<group>"; };
+		9A9FB6D5193637AC006B1538 /* pl_wyeth_aus.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pl_wyeth_aus.gif; sourceTree = "<group>"; };
+		9A9FB6D6193637AC006B1538 /* pl_wyeth_dubai.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pl_wyeth_dubai.gif; sourceTree = "<group>"; };
+		9AA02792184E719B00D0E547 /* PGWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PGWebViewController.h; sourceTree = "<group>"; };
+		9AA02793184E719B00D0E547 /* PGWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PGWebViewController.m; sourceTree = "<group>"; };
+		9AA0810618E9E3BF00786670 /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
+		9AA0810818EA16EF00786670 /* styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		9AA081D718F5BA510071F8E1 /* PGViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PGViewController.h; sourceTree = "<group>"; };
+		9AA081D818F5BA510071F8E1 /* PGViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PGViewController.m; sourceTree = "<group>"; };
+		9AA0C9A918627B9900457201 /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		9AA4D72718EB351500969A11 /* artofpsychopharmacology.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = artofpsychopharmacology.png; sourceTree = "<group>"; };
+		9AA4D72818EB351500969A11 /* commonlyprescribedfor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = commonlyprescribedfor.png; sourceTree = "<group>"; };
+		9AA4D72918EB351500969A11 /* contraindications.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = contraindications.png; sourceTree = "<group>"; };
+		9AA4D72A18EB351500969A11 /* dosinganduse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dosinganduse.png; sourceTree = "<group>"; };
+		9AA4D72B18EB351500969A11 /* interactions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = interactions.png; sourceTree = "<group>"; };
+		9AA4D72C18EB351500969A11 /* moa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moa.png; sourceTree = "<group>"; };
+		9AA4D72D18EB351500969A11 /* resources.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = resources.png; sourceTree = "<group>"; };
+		9AA4D72E18EB351500969A11 /* sideeffects.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sideeffects.png; sourceTree = "<group>"; };
+		9AA4D72F18EB351500969A11 /* specialpopulations.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = specialpopulations.png; sourceTree = "<group>"; };
+		9AA4D73018EB351500969A11 /* therapeuticresponse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = therapeuticresponse.png; sourceTree = "<group>"; };
+		9AA4D73118EB351500969A11 /* warningsprecautions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = warningsprecautions.png; sourceTree = "<group>"; };
+		9AA4D76118EB4B2800969A11 /* bullet_red_asterisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bullet_red_asterisk.png; sourceTree = "<group>"; };
+		9AA593211888621600A5A51A /* AutoCompleteIndicationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AutoCompleteIndicationViewController.h; sourceTree = "<group>"; };
+		9AA593231888625200A5A51A /* AutoCompleteIndicationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AutoCompleteIndicationViewController.m; sourceTree = "<group>"; };
+		9AA91009183EB2530097E25E /* ECPercentDrivenInteractiveTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ECPercentDrivenInteractiveTransition.h; sourceTree = "<group>"; };
+		9AA9100A183EB2530097E25E /* ECPercentDrivenInteractiveTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ECPercentDrivenInteractiveTransition.m; sourceTree = "<group>"; };
+		9AA9100B183EB2530097E25E /* ECSlidingAnimationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ECSlidingAnimationController.h; sourceTree = "<group>"; };
+		9AA9100C183EB2530097E25E /* ECSlidingAnimationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ECSlidingAnimationController.m; sourceTree = "<group>"; };
+		9AA9100D183EB2530097E25E /* ECSlidingConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ECSlidingConstants.h; sourceTree = "<group>"; };
+		9AA9100E183EB2530097E25E /* ECSlidingInteractiveTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ECSlidingInteractiveTransition.h; sourceTree = "<group>"; };
+		9AA9100F183EB2530097E25E /* ECSlidingInteractiveTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ECSlidingInteractiveTransition.m; sourceTree = "<group>"; };
+		9AA91010183EB2530097E25E /* ECSlidingSegue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ECSlidingSegue.h; sourceTree = "<group>"; };
+		9AA91011183EB2530097E25E /* ECSlidingSegue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ECSlidingSegue.m; sourceTree = "<group>"; };
+		9AA91012183EB2530097E25E /* ECSlidingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ECSlidingViewController.h; sourceTree = "<group>"; };
+		9AA91013183EB2530097E25E /* ECSlidingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ECSlidingViewController.m; sourceTree = "<group>"; };
+		9AA91014183EB2530097E25E /* UIViewController+ECSlidingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+ECSlidingViewController.h"; sourceTree = "<group>"; };
+		9AA91015183EB2530097E25E /* UIViewController+ECSlidingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+ECSlidingViewController.m"; sourceTree = "<group>"; };
+		9AAE0D66183FD55A007D6495 /* MEDynamicTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MEDynamicTransition.h; sourceTree = "<group>"; };
+		9AAE0D67183FD55A007D6495 /* MEDynamicTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MEDynamicTransition.m; sourceTree = "<group>"; };
+		9AAE0D68183FD55A007D6495 /* MEFoldAnimationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MEFoldAnimationController.h; sourceTree = "<group>"; };
+		9AAE0D69183FD55A007D6495 /* MEFoldAnimationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MEFoldAnimationController.m; sourceTree = "<group>"; };
+		9AAE0D6A183FD55A007D6495 /* METransitions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = METransitions.h; sourceTree = "<group>"; };
+		9AAE0D6B183FD55A007D6495 /* METransitions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = METransitions.m; sourceTree = "<group>"; };
+		9AAE0D6C183FD55A007D6495 /* MEZoomAnimationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MEZoomAnimationController.h; sourceTree = "<group>"; };
+		9AAE0D6D183FD55A007D6495 /* MEZoomAnimationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MEZoomAnimationController.m; sourceTree = "<group>"; };
+		9AB149B8183A9583008AAD8D /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		9AB149B9183A9583008AAD8D /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		9AB149BC183ADC44008AAD8D /* NSData+Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Base64.h"; sourceTree = "<group>"; };
+		9AB149BD183ADC44008AAD8D /* NSData+Base64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Base64.m"; sourceTree = "<group>"; };
+		9AB149BE183ADC44008AAD8D /* StringEncryption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StringEncryption.h; sourceTree = "<group>"; };
+		9AB149BF183ADC44008AAD8D /* StringEncryption.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StringEncryption.m; sourceTree = "<group>"; };
+		9ABE58FB18B67A47007ECB2C /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		9AC4B87318A998680017F86E /* close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = close.png; sourceTree = "<group>"; };
+		9ADD2B3C1912C63400051B24 /* bullet1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bullet1.png; sourceTree = "<group>"; };
+		9ADD2B401912CB6E00051B24 /* pk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pk.png; sourceTree = "<group>"; };
+		9ADD2B411912CB6E00051B24 /* comorbid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comorbid.png; sourceTree = "<group>"; };
+		9AF638211832C4CC00396694 /* PGLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PGLoginViewController.h; sourceTree = "<group>"; };
+		9AF638221832C4CC00396694 /* PGLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PGLoginViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,8 +276,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9ABE58FC18B67A47007ECB2C /* Security.framework in Frameworks */,
 				9A62910C182C643C007B924C /* CoreGraphics.framework in Frameworks */,
 				9A62910E182C643C007B924C /* UIKit.framework in Frameworks */,
+				9AA0C9AA18627B9900457201 /* libsqlite3.0.dylib in Frameworks */,
 				9A62910A182C643C007B924C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -87,6 +300,10 @@
 		9A6290FD182C643C007B924C = {
 			isa = PBXGroup;
 			children = (
+				9A993C6F183D3CEA000D54C6 /* ECSlidingViewController */,
+				9AB149BB183ADBF2008AAD8D /* Encryption */,
+				9AB149B7183A94E6008AAD8D /* MBProgressHUD */,
+				9AAE0D65183FD510007D6495 /* Transition */,
 				9A62910F182C643C007B924C /* NEIPG */,
 				9A629134182C643C007B924C /* NEIPGTests */,
 				9A629108182C643C007B924C /* Frameworks */,
@@ -106,6 +323,8 @@
 		9A629108182C643C007B924C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				9ABE58FB18B67A47007ECB2C /* Security.framework */,
+				9AA0C9A918627B9900457201 /* libsqlite3.0.dylib */,
 				9A629109182C643C007B924C /* Foundation.framework */,
 				9A62910B182C643C007B924C /* CoreGraphics.framework */,
 				9A62910D182C643C007B924C /* UIKit.framework */,
@@ -117,16 +336,17 @@
 		9A62910F182C643C007B924C /* NEIPG */ = {
 			isa = PBXGroup;
 			children = (
+				9A9E103918846344005DA616 /* Data */,
+				9A629110182C643C007B924C /* Supporting Files */,
+				9A9C7A0B1845378C0099995C /* Classes */,
+				9A9C7A08184536B90099995C /* Resources */,
+				9A98A7A718E62094000F89A4 /* images */,
 				9A629118182C643C007B924C /* PGAppDelegate.h */,
 				9A629119182C643C007B924C /* PGAppDelegate.m */,
 				9A62911B182C643C007B924C /* Main_iPhone.storyboard */,
 				9A62911E182C643C007B924C /* Main_iPad.storyboard */,
-				9A629121182C643C007B924C /* PGMasterViewController.h */,
-				9A629122182C643C007B924C /* PGMasterViewController.m */,
-				9A629124182C643C007B924C /* PGDetailViewController.h */,
-				9A629125182C643C007B924C /* PGDetailViewController.m */,
 				9A629127182C643C007B924C /* Images.xcassets */,
-				9A629110182C643C007B924C /* Supporting Files */,
+				9A9D218418510326007FFBE6 /* NEIPG.xcdatamodeld */,
 			);
 			path = NEIPG;
 			sourceTree = "<group>";
@@ -158,6 +378,182 @@
 				9A629137182C643C007B924C /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9A98A7A718E62094000F89A4 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9A1106E01DAD87BC007B4C8D /* clozapine_anc_general.png */,
+				9A1106DE1DAD87B3007B4C8D /* clozapine_anc_ben.png */,
+				9A1106DC1DAD87A6007B4C8D /* aripiprazole_lai.png */,
+				9A003A941DAD531D00D2A7B6 /* amphetamine-d.png */,
+				9A003A951DAD531D00D2A7B6 /* amphetamine-dl.png */,
+				9A003A971DAD531D00D2A7B6 /* aripiprazolelai1_6e.png */,
+				9A003A981DAD531D00D2A7B6 /* aripiprazollai2_6e.png */,
+				9A003A9A1DAD531D00D2A7B6 /* fluphenazine-lai.png */,
+				9A003A9B1DAD531D00D2A7B6 /* haloperidol-lai.png */,
+				9A003A9C1DAD531D00D2A7B6 /* methylphenidate-d.png */,
+				9A003A9D1DAD531D00D2A7B6 /* methylphenidate-dl.png */,
+				9A003A9E1DAD531D00D2A7B6 /* olanzapinelai.png */,
+				9A003A9F1DAD531D00D2A7B6 /* risperidonelai.png */,
+				9A7292C71BD19D5D002AE940 /* amisulpride_01.png */,
+				9A7292C81BD19D5D002AE940 /* aripiprazole_01.png */,
+				9A7292C91BD19D5D002AE940 /* asenapine_01.png */,
+				9A7292CA1BD19D5D002AE940 /* brexpiprazole_01.png */,
+				9A7292CB1BD19D5D002AE940 /* buprenorphine_table.png */,
+				9A7292CC1BD19D5D002AE940 /* cariprazine_01.png */,
+				9A7292CD1BD19D5D002AE940 /* clozapine_01.png */,
+				9A7292CE1BD19D5D002AE940 /* from_maoi.png */,
+				9A7292CF1BD19D5D002AE940 /* gabapentin.png */,
+				9A7292D01BD19D5D002AE940 /* iloperidone_01.png */,
+				9A7292D11BD19D5D002AE940 /* lurasidone_01.png */,
+				9A7292D21BD19D5D002AE940 /* maoi_tables.png */,
+				9A7292D31BD19D5D002AE940 /* olanzapine_01.png */,
+				9A7292D41BD19D5D002AE940 /* olanzapine_lai_01.png */,
+				9A7292D51BD19D5D002AE940 /* palipalm_01.png */,
+				9A7292D61BD19D5D002AE940 /* paliperidoneer_01.png */,
+				9A7292D71BD19D5D002AE940 /* quetiapine_01.png */,
+				9A7292D81BD19D5D002AE940 /* risp_lai_01.png */,
+				9A7292D91BD19D5D002AE940 /* risperidone_01.png */,
+				9A7292DA1BD19D5D002AE940 /* schiz_tr.png */,
+				9A7292DB1BD19D5D002AE940 /* to_maoi.png */,
+				9A7292DC1BD19D5D002AE940 /* ziprasidone_01.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		9A993C6F183D3CEA000D54C6 /* ECSlidingViewController */ = {
+			isa = PBXGroup;
+			children = (
+				9AA91009183EB2530097E25E /* ECPercentDrivenInteractiveTransition.h */,
+				9AA9100A183EB2530097E25E /* ECPercentDrivenInteractiveTransition.m */,
+				9AA9100B183EB2530097E25E /* ECSlidingAnimationController.h */,
+				9AA9100C183EB2530097E25E /* ECSlidingAnimationController.m */,
+				9AA9100D183EB2530097E25E /* ECSlidingConstants.h */,
+				9AA9100E183EB2530097E25E /* ECSlidingInteractiveTransition.h */,
+				9AA9100F183EB2530097E25E /* ECSlidingInteractiveTransition.m */,
+				9AA91010183EB2530097E25E /* ECSlidingSegue.h */,
+				9AA91011183EB2530097E25E /* ECSlidingSegue.m */,
+				9AA91012183EB2530097E25E /* ECSlidingViewController.h */,
+				9AA91013183EB2530097E25E /* ECSlidingViewController.m */,
+				9AA91014183EB2530097E25E /* UIViewController+ECSlidingViewController.h */,
+				9AA91015183EB2530097E25E /* UIViewController+ECSlidingViewController.m */,
+			);
+			path = ECSlidingViewController;
+			sourceTree = "<group>";
+		};
+		9A9C7A08184536B90099995C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9A1106E21DADADCF007B4C8D /* NEIPG.sqlite */,
+				9A1F3B7B18EE182C00D825EE /* disclaimer.htm */,
+				9ADD2B3C1912C63400051B24 /* bullet1.png */,
+				9AC4B87318A998680017F86E /* close.png */,
+				9A9F222618E4D795001C42AB /* nei_logo.png */,
+				9AA0810618E9E3BF00786670 /* menu.png */,
+				9AA4D76118EB4B2800969A11 /* bullet_red_asterisk.png */,
+				9A9FB6D2193637AC006B1538 /* pl_az_bel.gif */,
+				9A9FB6D3193637AC006B1538 /* pl_sunpharma_india.gif */,
+				9A9FB6D4193637AC006B1538 /* pl_torrent_india.gif */,
+				9A9FB6D5193637AC006B1538 /* pl_wyeth_aus.gif */,
+				9A9FB6D6193637AC006B1538 /* pl_wyeth_dubai.gif */,
+				9AA0810818EA16EF00786670 /* styles.css */,
+				9AA4D72718EB351500969A11 /* artofpsychopharmacology.png */,
+				9AA4D72818EB351500969A11 /* commonlyprescribedfor.png */,
+				9AA4D72918EB351500969A11 /* contraindications.png */,
+				9AA4D72A18EB351500969A11 /* dosinganduse.png */,
+				9AA4D72B18EB351500969A11 /* interactions.png */,
+				9AA4D72C18EB351500969A11 /* moa.png */,
+				9AA4D72D18EB351500969A11 /* resources.png */,
+				9AA4D72E18EB351500969A11 /* sideeffects.png */,
+				9AA4D72F18EB351500969A11 /* specialpopulations.png */,
+				9AA4D73018EB351500969A11 /* therapeuticresponse.png */,
+				9AA4D73118EB351500969A11 /* warningsprecautions.png */,
+				9ADD2B401912CB6E00051B24 /* pk.png */,
+				9ADD2B411912CB6E00051B24 /* comorbid.png */,
+				9A9F95F618ECC3D100ECA3E7 /* star1.png */,
+				9A9F95EE18EC709000ECA3E7 /* callout1.png */,
+				9A7E6E0D1857ED7E00EDC2C1 /* next-cal.gif */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		9A9C7A0B1845378C0099995C /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				9AA081D718F5BA510071F8E1 /* PGViewController.h */,
+				9AA081D818F5BA510071F8E1 /* PGViewController.m */,
+				9A9C7A0F1845387E0099995C /* AutoCompleteTextFieldViewController.h */,
+				9A9C7A101845387E0099995C /* AutoCompleteTextFieldViewController.m */,
+				9AA593211888621600A5A51A /* AutoCompleteIndicationViewController.h */,
+				9AA593231888625200A5A51A /* AutoCompleteIndicationViewController.m */,
+				9A4FC621183C4786001782A7 /* InitViewController.h */,
+				9A4FC622183C4786001782A7 /* InitViewController.m */,
+				9A4FC626183C4786001782A7 /* MenuViewController.h */,
+				9A4FC627183C4786001782A7 /* MenuViewController.m */,
+				9AF638211832C4CC00396694 /* PGLoginViewController.h */,
+				9AF638221832C4CC00396694 /* PGLoginViewController.m */,
+				9A629121182C643C007B924C /* PGMasterViewController.h */,
+				9A629122182C643C007B924C /* PGMasterViewController.m */,
+				9A629124182C643C007B924C /* PGDetailViewController.h */,
+				9A629125182C643C007B924C /* PGDetailViewController.m */,
+				9AA02792184E719B00D0E547 /* PGWebViewController.h */,
+				9AA02793184E719B00D0E547 /* PGWebViewController.m */,
+				9A1F3B7818EE14BA00D825EE /* PGDisclaimerViewController.h */,
+				9A1F3B7918EE14BA00D825EE /* PGDisclaimerViewController.m */,
+				9A9F540018861A2500431057 /* PGDrugListViewController.h */,
+				9A9F540118861A2500431057 /* PGDrugListViewController.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		9A9E103918846344005DA616 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				9A2C67E118B67FDE00AB76C0 /* KeychainItemWrapper.h */,
+				9A2C67E218B67FDE00AB76C0 /* KeychainItemWrapper.m */,
+				9A9E10361884633A005DA616 /* PGDataManager.h */,
+				9A9E10371884633A005DA616 /* PGDataManager.m */,
+				9A9E103A18846383005DA616 /* PGCheckList.h */,
+				9A9E103B18846383005DA616 /* PGCheckList.m */,
+			);
+			name = Data;
+			sourceTree = "<group>";
+		};
+		9AAE0D65183FD510007D6495 /* Transition */ = {
+			isa = PBXGroup;
+			children = (
+				9AAE0D66183FD55A007D6495 /* MEDynamicTransition.h */,
+				9AAE0D67183FD55A007D6495 /* MEDynamicTransition.m */,
+				9AAE0D68183FD55A007D6495 /* MEFoldAnimationController.h */,
+				9AAE0D69183FD55A007D6495 /* MEFoldAnimationController.m */,
+				9AAE0D6A183FD55A007D6495 /* METransitions.h */,
+				9AAE0D6B183FD55A007D6495 /* METransitions.m */,
+				9AAE0D6C183FD55A007D6495 /* MEZoomAnimationController.h */,
+				9AAE0D6D183FD55A007D6495 /* MEZoomAnimationController.m */,
+			);
+			name = Transition;
+			path = NEIPG;
+			sourceTree = "<group>";
+		};
+		9AB149B7183A94E6008AAD8D /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				9AB149B8183A9583008AAD8D /* MBProgressHUD.h */,
+				9AB149B9183A9583008AAD8D /* MBProgressHUD.m */,
+			);
+			name = MBProgressHUD;
+			sourceTree = "<group>";
+		};
+		9AB149BB183ADBF2008AAD8D /* Encryption */ = {
+			isa = PBXGroup;
+			children = (
+				9AB149BC183ADC44008AAD8D /* NSData+Base64.h */,
+				9AB149BD183ADC44008AAD8D /* NSData+Base64.m */,
+				9AB149BE183ADC44008AAD8D /* StringEncryption.h */,
+				9AB149BF183ADC44008AAD8D /* StringEncryption.m */,
+			);
+			name = Encryption;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -205,9 +601,13 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = PG;
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "Yaogeng Cheng";
 				TargetAttributes = {
+					9A629105182C643C007B924C = {
+						DevelopmentTeam = 53326A7Q7R;
+						ProvisioningStyle = Automatic;
+					};
 					9A62912C182C643C007B924C = {
 						TestTargetID = 9A629105182C643C007B924C;
 					};
@@ -237,10 +637,75 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9AA4D73218EB351500969A11 /* artofpsychopharmacology.png in Resources */,
+				9A1106DD1DAD87A6007B4C8D /* aripiprazole_lai.png in Resources */,
+				9AA0810718E9E3BF00786670 /* menu.png in Resources */,
+				9A7292DD1BD19D5D002AE940 /* amisulpride_01.png in Resources */,
+				9A7292F01BD19D5D002AE940 /* schiz_tr.png in Resources */,
+				9AA4D73A18EB351500969A11 /* specialpopulations.png in Resources */,
+				9A7292E71BD19D5D002AE940 /* lurasidone_01.png in Resources */,
+				9AA4D73918EB351500969A11 /* sideeffects.png in Resources */,
+				9A9FB6D7193637AC006B1538 /* pl_az_bel.gif in Resources */,
+				9AA0810918EA16EF00786670 /* styles.css in Resources */,
+				9A7292E51BD19D5D002AE940 /* gabapentin.png in Resources */,
+				9AA4D73418EB351500969A11 /* contraindications.png in Resources */,
+				9AA4D73C18EB351500969A11 /* warningsprecautions.png in Resources */,
+				9A9F95F718ECC3D100ECA3E7 /* star1.png in Resources */,
+				9A7292F21BD19D5D002AE940 /* ziprasidone_01.png in Resources */,
+				9ADD2B431912CB6E00051B24 /* comorbid.png in Resources */,
+				9A7292E81BD19D5D002AE940 /* maoi_tables.png in Resources */,
 				9A629120182C643C007B924C /* Main_iPad.storyboard in Resources */,
+				9A7292E41BD19D5D002AE940 /* from_maoi.png in Resources */,
+				9A7292E21BD19D5D002AE940 /* cariprazine_01.png in Resources */,
+				9A7292DF1BD19D5D002AE940 /* asenapine_01.png in Resources */,
+				9A7292E31BD19D5D002AE940 /* clozapine_01.png in Resources */,
+				9A003AA31DAD531D00D2A7B6 /* aripiprazolelai1_6e.png in Resources */,
+				9ADD2B421912CB6E00051B24 /* pk.png in Resources */,
+				9A7292E91BD19D5D002AE940 /* olanzapine_01.png in Resources */,
+				9A003AA81DAD531D00D2A7B6 /* methylphenidate-d.png in Resources */,
 				9A629128182C643C007B924C /* Images.xcassets in Resources */,
+				9AA4D73618EB351500969A11 /* interactions.png in Resources */,
+				9A9FB6DB193637AC006B1538 /* pl_wyeth_dubai.gif in Resources */,
+				9A7292E01BD19D5D002AE940 /* brexpiprazole_01.png in Resources */,
+				9A1106DF1DAD87B3007B4C8D /* clozapine_anc_ben.png in Resources */,
+				9A1106E11DAD87BC007B4C8D /* clozapine_anc_general.png in Resources */,
+				9A7292EF1BD19D5D002AE940 /* risperidone_01.png in Resources */,
+				9A9F95F218EC709000ECA3E7 /* callout1.png in Resources */,
+				9A9FB6DA193637AC006B1538 /* pl_wyeth_aus.gif in Resources */,
+				9ADD2B3E1912C63400051B24 /* bullet1.png in Resources */,
+				9A9FB6D9193637AC006B1538 /* pl_torrent_india.gif in Resources */,
+				9A7292F11BD19D5D002AE940 /* to_maoi.png in Resources */,
+				9A003AA11DAD531D00D2A7B6 /* amphetamine-dl.png in Resources */,
+				9A7292EA1BD19D5D002AE940 /* olanzapine_lai_01.png in Resources */,
+				9AA4D73318EB351500969A11 /* commonlyprescribedfor.png in Resources */,
+				9A1F3B7C18EE182C00D825EE /* disclaimer.htm in Resources */,
+				9A7292E11BD19D5D002AE940 /* buprenorphine_table.png in Resources */,
+				9AC4B87418A998680017F86E /* close.png in Resources */,
+				9A003AA01DAD531D00D2A7B6 /* amphetamine-d.png in Resources */,
+				9A003AAB1DAD531D00D2A7B6 /* risperidonelai.png in Resources */,
+				9A7292DE1BD19D5D002AE940 /* aripiprazole_01.png in Resources */,
+				9AA4D73818EB351500969A11 /* resources.png in Resources */,
+				9A7292ED1BD19D5D002AE940 /* quetiapine_01.png in Resources */,
+				9A1106E31DADADCF007B4C8D /* NEIPG.sqlite in Resources */,
+				9AA4D73B18EB351500969A11 /* therapeuticresponse.png in Resources */,
+				9AA4D73718EB351500969A11 /* moa.png in Resources */,
+				9A9F222718E4D795001C42AB /* nei_logo.png in Resources */,
+				9A003AA61DAD531D00D2A7B6 /* fluphenazine-lai.png in Resources */,
+				9AA4D73518EB351500969A11 /* dosinganduse.png in Resources */,
+				9A7292EB1BD19D5D002AE940 /* palipalm_01.png in Resources */,
+				9A003AA91DAD531D00D2A7B6 /* methylphenidate-dl.png in Resources */,
+				9A7E6E0E1857ED7E00EDC2C1 /* next-cal.gif in Resources */,
+				9A003AA41DAD531D00D2A7B6 /* aripiprazollai2_6e.png in Resources */,
+				9AA593221888621600A5A51A /* AutoCompleteIndicationViewController.h in Resources */,
+				9A003AAA1DAD531D00D2A7B6 /* olanzapinelai.png in Resources */,
 				9A62911D182C643C007B924C /* Main_iPhone.storyboard in Resources */,
+				9A7292EC1BD19D5D002AE940 /* paliperidoneer_01.png in Resources */,
 				9A629114182C643C007B924C /* InfoPlist.strings in Resources */,
+				9AA4D76218EB4B2800969A11 /* bullet_red_asterisk.png in Resources */,
+				9A003AA71DAD531D00D2A7B6 /* haloperidol-lai.png in Resources */,
+				9A7292EE1BD19D5D002AE940 /* risp_lai_01.png in Resources */,
+				9A9FB6D8193637AC006B1538 /* pl_sunpharma_india.gif in Resources */,
+				9A7292E61BD19D5D002AE940 /* iloperidone_01.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,10 +724,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9AAE0D70183FD55A007D6495 /* METransitions.m in Sources */,
+				9AAE0D6F183FD55A007D6495 /* MEFoldAnimationController.m in Sources */,
+				9A4FC62D183C4786001782A7 /* MenuViewController.m in Sources */,
+				9AA02794184E719B00D0E547 /* PGWebViewController.m in Sources */,
+				9A9E10381884633A005DA616 /* PGDataManager.m in Sources */,
 				9A629126182C643C007B924C /* PGDetailViewController.m in Sources */,
+				9AA91016183EB2530097E25E /* ECPercentDrivenInteractiveTransition.m in Sources */,
+				9A9F540218861A2500431057 /* PGDrugListViewController.m in Sources */,
+				9AAE0D6E183FD55A007D6495 /* MEDynamicTransition.m in Sources */,
+				9AA91018183EB2530097E25E /* ECSlidingInteractiveTransition.m in Sources */,
+				9AAE0D71183FD55A007D6495 /* MEZoomAnimationController.m in Sources */,
+				9A1F3B7A18EE14BA00D825EE /* PGDisclaimerViewController.m in Sources */,
+				9AA91019183EB2530097E25E /* ECSlidingSegue.m in Sources */,
+				9AA593241888625200A5A51A /* AutoCompleteIndicationViewController.m in Sources */,
+				9A9C7A111845387E0099995C /* AutoCompleteTextFieldViewController.m in Sources */,
+				9AB149BA183A9583008AAD8D /* MBProgressHUD.m in Sources */,
+				9AA9101A183EB2530097E25E /* ECSlidingViewController.m in Sources */,
 				9A629116182C643C007B924C /* main.m in Sources */,
+				9AA9101B183EB2530097E25E /* UIViewController+ECSlidingViewController.m in Sources */,
+				9AA081D918F5BA510071F8E1 /* PGViewController.m in Sources */,
+				9AB149C0183ADC44008AAD8D /* NSData+Base64.m in Sources */,
+				9A4FC62A183C4786001782A7 /* InitViewController.m in Sources */,
+				9A2C67E318B67FDE00AB76C0 /* KeychainItemWrapper.m in Sources */,
 				9A629123182C643C007B924C /* PGMasterViewController.m in Sources */,
+				9AF638231832C4CC00396694 /* PGLoginViewController.m in Sources */,
+				9A9E103C18846383005DA616 /* PGCheckList.m in Sources */,
+				9AA91017183EB2530097E25E /* ECSlidingAnimationController.m in Sources */,
+				9A9D218618510326007FFBE6 /* NEIPG.xcdatamodeld in Sources */,
 				9A62911A182C643C007B924C /* PGAppDelegate.m in Sources */,
+				9AB149C1183ADC44008AAD8D /* StringEncryption.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,7 +815,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -337,8 +827,10 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -364,7 +856,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -377,6 +868,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
@@ -399,10 +891,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 53326A7Q7R;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "NEIPG/NEIPG-Prefix.pch";
 				INFOPLIST_FILE = "NEIPG/NEIPG-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mobileprogramming.nei;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -412,10 +912,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 53326A7Q7R;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "NEIPG/NEIPG-Prefix.pch";
 				INFOPLIST_FILE = "NEIPG/NEIPG-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mobileprogramming.nei;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -423,7 +931,6 @@
 		9A629142182C643C007B924C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/NEIPG.app/NEIPG";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -437,6 +944,7 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = "NEIPGTests/NEIPGTests-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "NEI.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -446,7 +954,6 @@
 		9A629143182C643C007B924C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/NEIPG.app/NEIPG";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -456,6 +963,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "NEIPG/NEIPG-Prefix.pch";
 				INFOPLIST_FILE = "NEIPGTests/NEIPGTests-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "NEI.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -481,6 +989,7 @@
 				9A629140182C643C007B924C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A629141182C643C007B924C /* Build configuration list for PBXNativeTarget "NEIPGTests" */ = {
 			isa = XCConfigurationList;
@@ -489,8 +998,22 @@
 				9A629143182C643C007B924C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		9A9D218418510326007FFBE6 /* NEIPG.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				9A9D218518510326007FFBE6 /* NEIPG.xcdatamodel */,
+			);
+			currentVersion = 9A9D218518510326007FFBE6 /* NEIPG.xcdatamodel */;
+			path = NEIPG.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 9A6290FE182C643C007B924C /* Project object */;
 }

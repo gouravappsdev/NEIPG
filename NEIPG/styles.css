@@ -1,0 +1,32 @@
+*                       {font-family: Tahoma,Verdana,Arial,Helvetica;}
+
+P, STRONG, SPAN {font-size: 30px; color: #000000; font-family: inherit;}
+
+UL {font-size: 30px; color: #000000; font-family: inherit; list-style-image: url('bullet1.png');}
+
+a:link, span.MsoHyperlink
+	{color:#0000FF;
+    font-size: 30px;
+	text-decoration:underline;
+	font-family:inherit;}
+
+a:visited, span.MsoHyperlinkFollowed
+	{color:#0000FF;
+    font-size: 30px;
+	text-decoration:underline;
+	font-family:inherit;}
+
+p.neiheader1, li.neiheader1, div.neiheader1
+	{mso-style-name:neiheader1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	background:#B8CCE4;
+	font-family:inherit;
+	font-size:45px;	
+	font-weight:bold;}
+
+.bkgHeader {background:#B8CCE4; padding:0in 0in 0in 0in;}
+
+.imgSize {width:100; height:100;}
+
+.callout {list-style-image: url(star1.png);

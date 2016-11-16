@@ -11,5 +11,5 @@
 @interface PGAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-
+- (void)createDynamicShortcutItems;
 @end

@@ -7,11 +7,20 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+//#import <sqlite3.h>
+
 
 @class PGDetailViewController;
 
 @interface PGMasterViewController : UITableViewController
 
+//- (NSMutableArray *) getMyWines;
+
+//@property (strong, nonatomic) UIButton *menuBtn;
+
+@property (nonatomic, copy) NSString *drugName;
 @property (strong, nonatomic) PGDetailViewController *detailViewController;
+- (void)setMasterItem:(NSString *)newString;
 
 @end

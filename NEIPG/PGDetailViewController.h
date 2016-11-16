@@ -8,9 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
-@interface PGDetailViewController : UIViewController <UISplitViewControllerDelegate>
+@interface PGDetailViewController : UITableViewController
 
 @property (strong, nonatomic) id detailItem;
 
-@property (weak, nonatomic) IBOutlet UILabel *detailDescriptionLabel;
+@property (strong, nonatomic) NSMutableDictionary *objects;
+//Holds our data.
+@property (strong, nonatomic) NSMutableDictionary *names;
+//Holds the sections sorted in alphabetical order.
+@property (strong, nonatomic) NSArray *keys;
+
+//@property (weak, nonatomic) IBOutlet UILabel *detailDescriptionLabel;
 @end
